@@ -1,4 +1,4 @@
 dev.sql merge=ours
 dev.sql merge=ours
-dev.sql2 merge=ours
+dev2.sql merge=ours
 .gitattributes merge=ours
